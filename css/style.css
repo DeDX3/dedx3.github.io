@@ -506,7 +506,7 @@ img {
   color: #4078c0;
 }
 
-@media screen and (max-width: 768px) {
+@media (min-width: 501px) and (max-width: 768px) {
   #main-nav {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
@@ -539,7 +539,7 @@ img {
   }
 }
 
-@media screen and (max-width: 500px) {
+@media only screen and (max-width: 500px) {
   .highlight {
     display: block;
   }
