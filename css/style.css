@@ -270,7 +270,7 @@ img {
 }
 
 #main-nav {
-  background-color: rgba(255, 118, 117, 0.8);
+  background-color: rgb(255, 118, 117);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
